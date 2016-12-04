@@ -1,0 +1,7 @@
+# rtpengine-docker (WIP)
+
+motivation getting rtp-engine running in container with rancher
+
+inspiration borrowed from 
+- Binan/rtpengine-docker
+- ianblenke/docker-rtpengine
